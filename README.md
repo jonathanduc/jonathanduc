@@ -56,18 +56,21 @@ My name is Jonathan Duckes, a Master MIASHS student specializing in Data Science
 - **Autres compétences :** Analyse de données, Visualisation de données, Apprentissage supervisé et non supervisé
 
 ### Langages de programmation
-<img src="icons/python.svg" alt="Python" width="30" height="30"/> <img src="icons/r.svg" alt="R" width="30" height="30"/> <img src="icons/java.svg" alt="Java" width="30" height="30"/> <img src="icons/javascript.svg" alt="JavaScript" width="30" height="30"/> <img src="icons/html.svg" alt="HTML" width="30" height="30"/> <img src="icons/CSS3.svg" alt="CSS" width="30" height="30"/>
+<img src="icons/python.svg" alt="Python" width="40" height="40"/> <img src="icons/r.svg" alt="R" width="40" height="40"/> <img src="icons/java.svg" alt="Java" width="40" height="40"/> <img src="icons/javascript.svg" alt="JavaScript" width="40" height="40"/> <img src="icons/html.svg" alt="HTML" width="40" height="40"/> <img src="icons/CSS3.svg" alt="CSS" width="40" height="40"/>
 
 ### Outils et bibliothèques
-<img src="icons/tensorflow.svg" alt="TensorFlow" width="30" height="30"/> <img src="icons/keras.svg" alt="Keras" width="30" height="30"/> <img src="icons/pytorch.svg" alt="PyTorch" width="30" height="30"/> <img src="icons/scikit_learn.svg" alt="Scikit-Learn" width="30" height="30"/> <img src="icons/pandas.svg" alt="Pandas" width="30" height="30"/> <img src="icons/numpy.svg" alt="NumPy" width="30" height="30"/> <img src="icons/matplotlib.svg" alt="Matplotlib" width="30" height="30"/> <img src="icons/seaborn.svg" alt="Matplotlib" width="30" height="30"/>
+<img src="icons/tensorflow.svg" alt="TensorFlow" width="40" height="40"/> <img src="icons/keras.svg" alt="Keras" width="40" height="40"/> <img src="icons/pytorch.svg" alt="PyTorch" width="40" height="40"/> <img src="icons/scikit_learn.svg" alt="Scikit-Learn" width="40" height="40"/> <img src="icons/pandas.svg" alt="Pandas" width="40" height="40"/> <img src="icons/numpy.svg" alt="NumPy" width="40" height="40"/> <img src="icons/matplotlib.svg" alt="Matplotlib" width="40" height="40"/> <img src="icons/seaborn.svg" alt="Seaborn" width="40" height="40"/>
 
 ### Autres compétences
-<img src="icons/data_analysis.svg" alt="Analyse de données" width="30" height="30"/> <img src="icons/data_visualization.svg" alt="Visualisation de données" width="30" height="30"/> <img src="icons/machine_learning.svg" alt="Apprentissage supervisé et non supervisé" width="30" height="30"/>
+<img src="icons/data_analysis.svg" alt="Analyse de données" width="40" height="40"/> <img src="icons/data_visualization.svg" alt="Visualisation de données" width="40" height="40"/> <img src="icons/machine_learning.svg" alt="Apprentissage supervisé et non supervisé" width="40" height="40"/>
+
 
 ## 📈 Statistiques GitHub / GitHub Stats
 
-![Jonathan Duckes' GitHub stats](https://github-readme-stats.vercel.app/api?username=jonathanduc&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jonathanduc&layout=compact&theme=radical)
+<div style="display: flex; justify-content: space-between;">
+  <img src="https://github-readme-stats.vercel.app/api?username=jonathanduc&show_icons=true&theme=radical" width="45%">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jonathanduc&layout=compact&theme=radical" width="45%">
+</div>
 
 ## 🌟 Projets / Projects
 
@@ -82,6 +85,8 @@ Travaux d'études et de recherches avec le LIRMM et Janssen Horizon. Analyse de 
 
 ### [Reconnaissance d’objets géométriques]
 Projet de fin de licence de reconnaissance d'objets géométriques à l'aide du modèle d'apprentissage profond Yolo.
+
+Vous pouvez retrouver les résultats détaillés de ces projets sur mon [portfolio](https://jonathanduc.github.io/portfolio/).
 
 ## 📫 Contact
 
