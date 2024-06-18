@@ -17,7 +17,9 @@ Here are some ideas to get you started:
 
 # Jonathan Duckes
 
-![Profil](profile.jpg)
+<p align="center">
+  <img src="profile.png" width="200" height="200" alt="Jonathan Duckes" />
+</p>
 
 ## Bienvenue sur mon GitHub !👋
 
