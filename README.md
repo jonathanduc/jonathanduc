@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 # Jonathan Duckes
 
 <p align="center">
-  <img src="profile.png" width="200" height="200" alt="Jonathan Duckes" />
+  <img src="profile.jpg" width="200" height="200" alt="Jonathan Duckes" />
 </p>
 
 ## Bienvenue sur mon GitHub !👋
