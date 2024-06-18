@@ -58,6 +58,7 @@ My name is Jonathan Duckes, a Master MIASHS student specializing in Data Science
 ## 📈 Statistiques GitHub / GitHub Stats
 
 ![Jonathan Duckes' GitHub stats](https://github-readme-stats.vercel.app/api?username=jonathanduc&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jonathanduc&layout=compact&theme=radical)
 
 ## 🌟 Projets / Projects
 
