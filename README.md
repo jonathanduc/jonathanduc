@@ -55,6 +55,15 @@ My name is Jonathan Duckes, a Master MIASHS student specializing in Data Science
 - **Outils et bibliothèques :** TensorFlow, Keras, PyTorch, Scikit-Learn, Pandas, NumPy, Matplotlib
 - **Autres compétences :** Analyse de données, Visualisation de données, Apprentissage supervisé et non supervisé
 
+### Langages de programmation
+<img src="icons/python.svg" alt="Python" width="30" height="30"/> <img src="icons/r.svg" alt="R" width="30" height="30"/> <img src="icons/java.svg" alt="Java" width="30" height="30"/> <img src="icons/javascript.svg" alt="JavaScript" width="30" height="30"/> <img src="icons/html.svg" alt="HTML" width="30" height="30"/> <img src="icons/CSS3.svg" alt="CSS" width="30" height="30"/>
+
+### Outils et bibliothèques
+<img src="icons/tensorflow.svg" alt="TensorFlow" width="30" height="30"/> <img src="icons/keras.svg" alt="Keras" width="30" height="30"/> <img src="icons/pytorch.svg" alt="PyTorch" width="30" height="30"/> <img src="icons/scikit_learn.svg" alt="Scikit-Learn" width="30" height="30"/> <img src="icons/pandas.svg" alt="Pandas" width="30" height="30"/> <img src="icons/numpy.svg" alt="NumPy" width="30" height="30"/> <img src="icons/matplotlib.svg" alt="Matplotlib" width="30" height="30"/> <img src="icons/seaborn.svg" alt="Matplotlib" width="30" height="30"/>
+
+### Autres compétences
+<img src="icons/data_analysis.svg" alt="Analyse de données" width="30" height="30"/> <img src="icons/data_visualization.svg" alt="Visualisation de données" width="30" height="30"/> <img src="icons/machine_learning.svg" alt="Apprentissage supervisé et non supervisé" width="30" height="30"/>
+
 ## 📈 Statistiques GitHub / GitHub Stats
 
 ![Jonathan Duckes' GitHub stats](https://github-readme-stats.vercel.app/api?username=jonathanduc&show_icons=true&theme=radical)
