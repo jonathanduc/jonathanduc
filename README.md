@@ -77,7 +77,7 @@ My name is Jonathan Duckes, a Master MIASHS student specializing in Data Science
 ### [Cyclers](https://github.com/houriasayah/Cyclers)
 Projet Erasmus + 3CS "Cycling, Campus & City" avec la start-up Muv. Ce projet vise à encourager la mobilité douce sur les campus universitaires.
 
-### [Spaceship Titanic]
+### [Spaceship Titanic](https://github.com/jonathanduc/spaceship-titanic)
 Projet de compétition Kaggle sur la prédiction de passagers transportés à l'aide de modèles d'apprentissage statistique.
 
 ### [Tweets Controverses](https://github.com/alyasltd/TER-2023-2024-Visualisations_de_tweets_controverses)
