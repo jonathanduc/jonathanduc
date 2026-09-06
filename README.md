@@ -1,173 +1,71 @@
-<!--
-**jonathanduc/jonathanduc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
--->
-
 # Jonathan Duckes
 
 <p align="center">
-  <img src="profile.jpg" width="200" height="200" alt="Jonathan Duckes" />
+  <img src="profile.jpg" width="170" height="170" alt="Jonathan Duckes" />
 </p>
 
-# 👋 Bonjour, je suis Jonathan Duckes  
-🎓 **Data Scientist / Data Engineer junior**  
-Diplômé du Master **MIASHS – Mathématiques et Informatique Appliquées aux Sciences Humaines et Sociales**  
-Université Paul-Valéry Montpellier 3 (2025)
+<p align="center">
+  <strong>Data Scientist - AI & Data Engineer junior</strong><br>
+  Luxembourg - Mobilité Ile-de-France
+</p>
 
----
+Je suis diplômé du **Master MIASHS, spécialisation Data Science** de l'Université Paul-Valéry Montpellier 3. Mon parcours combine Machine Learning, statistiques, Data Engineering et GenAI, avec une expérience professionnelle sur des pipelines Python, APIs, qualité des données, Docker, CI/CD et AWS.
 
+I am a **Master MIASHS Data Science graduate** with experience across Machine Learning, Data Engineering and GenAI. I enjoy building data systems from ingestion and quality controls to modelling, APIs and production-oriented delivery.
 
-## 📚 Éducation / Education
+## Selected work
 
-- 🎓 **Master MIASHS (Data Science, Machine Learning & Statistics)** — 2023-2025  
-  *Université Paul-Valéry Montpellier 3*
+### Luxembourg Financial Reference Data Quality
+Pipeline Python et SQL appliqué à des données officielles luxembourgeoises. Ingestion robuste de snapshots, normalisation, SQLite, contrôles qualité SQL, comparaison historique et tests pytest.
 
-- 🎓 **Licence en Mathématiques Appliquées** — 2020-2023  
-  *Université Paul-Valéry Montpellier 3*
+[Repository](https://github.com/jonathanduc/luxembourg-financial-reference-data-quality)
 
----
+### Teads Data Science Summer School - Signal Challenge
+Modélisation multi-tâches sur environ **7 millions d'impressions publicitaires** pour prédire vue, clic et conversion. XGBoost et Multi-Task DeepFM, environ **0,85 d'AUC**, équipe classée **1re sur le leaderboard privé parmi 4 équipes**.
 
-## 🛠️ Compétences / Skills
+### INM-Explain - LIRMM
+Analyse NLP de **plus de 5 millions de tweets** sur des controverses médicales. BERT/RoBERTa, LDA, indice de controverse et interface Streamlit.
 
-- **Langages de programmation :** Python, R, Java, JavaScript, HTML, CSS  
-  <img src="icons/python.svg" alt="Python" width="50" height="50"/> <img src="icons/r.svg" alt="R" width="50" height="50"/> <img src="icons/java.svg" alt="Java" width="50" height="50"/> <img src="icons/javascript.svg" alt="JavaScript" width="50" height="50"/> <img src="icons/html.svg" alt="HTML" width="50" height="50"/> <img src="icons/CSS3.svg" alt="CSS" width="50" height="50"/>
+[Repository](https://github.com/alyasltd/INM-Explain) - [HAL - PFIA 2024](https://hal-lirmm.ccsd.cnrs.fr/lirmm-04825964)
 
-- **Outils et bibliothèques :** TensorFlow, PyTorch, Scikit-Learn, Pandas, NumPy, Matplotlib, Seaborn, Flask, FastAPI, Plotly  
-  <img src="icons/tensorflow.svg" alt="TensorFlow" width="60" height="60"/> <img src="icons/pytorch.svg" alt="PyTorch" width="50" height="50"/> <img src="icons/scikit_learn.svg" alt="Scikit-Learn" width="50" height="50"/> <img src="icons/pandas.svg" alt="Pandas" width="50" height="50"/> <img src="icons/numpy.svg" alt="NumPy" width="50" height="50"/> <img src="icons/matplotlib.svg" alt="Matplotlib" width="50" height="50"/> <img src="icons/seaborn.svg" alt="Seaborn" width="50" height="50"/>
+### US Equity End-of-Session Return Prediction
+Projet de séries temporelles financières avec diagnostics ADF/KPSS, décomposition saisonnière, feature engineering temporel, ETS, ARIMAX et LSTM avec validation respectant l'ordre temporel.
 
-- **Autres compétences :** Analyse de données, Visualisation, NLP, Time Series, API REST, Docker, AWS  
-  <img src="icons/data_analysis.svg" alt="Analyse de données" width="60" height="60"/> <img src="icons/data_visualization.svg" alt="Visualisation de données" width="60" height="60"/> <img src="icons/machine_learning.svg" alt="Apprentissage supervisé et non supervisé" width="60" height="60"/>
+### Collembola Image Classification
+Classification multi-classe d'images microscopiques sur données déséquilibrées. Contribution centrée sur **Vision Transformer, attention maps et GradCAM** avec PyTorch.
 
----
+### DatIA - Professional project, source private
+Projet GenAI interne développé chez Algorep avec **GPT-4o, BrowserUse, Playwright et Pydantic**. POC présenté aux équipes métier, packaging Docker et exposition via API dans une démarche d'industrialisation.
 
-## 📈 Statistiques GitHub / GitHub Stats
+## Experience
 
-<div style="display: flex; justify-content: space-between;">
-  <img src="https://github-readme-stats.vercel.app/api?username=jonathanduc&show_icons=true&theme=radical" width="45%">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jonathanduc&layout=compact&theme=radical" width="45%">
-</div>
+**Data Engineer Apprentice - Algorep** - Nov 2024 to Nov 2025
 
----
+Python data pipelines, APIs, databases, AI-assisted extraction, data quality and coherence controls, Docker, Git, CI/CD, AWS deployment and maintenance.
 
-## 🌟 Projets / Projects
+## Earlier projects
 
-### 🛰 [Spaceship Titanic](https://github.com/jonathanduc/spaceship-titanic)
-Projet solo (M1) – Challenge Kaggle.  
-Prédiction du statut des passagers à partir de données hétérogènes à l’aide de modèles supervisés.  
-**Stack :** Python, Pandas, Scikit-Learn, Matplotlib  
-**Résultat :** Accuracy ≈ 80 %, feature engineering et validation croisée.
+Je conserve volontairement mes projets plus anciens pour montrer mon évolution.
 
----
+- [Spaceship Titanic](https://github.com/jonathanduc/spaceship-titanic) - classification supervisée, feature engineering et validation croisée
+- [OpenData Project](https://github.com/jonathanduc/OpenData-Project) - dashboard OMS/GHO, régression, PCA, KMeans et visualisation géographique
+- [Recipes & Nutrition API](https://github.com/aaudric/projet-api) - intégration Spoonacular et Open Food Facts avec Node.js/Express
+- Geometric Object Recognition - YOLOv5, OpenCV et annotation d'images
+- [RobotRally](https://github.com/jonathanduc/RobotRally) - projet logiciel antérieur
 
-### 🌍 [OpenData Project](https://github.com/jonathanduc/OpenData-Project)
-Projet en binôme (M2) – Cours *Open Data et Web des données*.  
-Développement d’un pipeline d’analyse et d’un dashboard interactif à partir de données publiques issues de data.gouv.fr.  
-**Stack :** Python, Flask, Pandas, Plotly  
-**Résultat :** API fonctionnelle et visualisations dynamiques.
+## Core stack
 
----
+**Data Science & AI** - Python, SQL, Pandas, NumPy, scikit-learn, XGBoost, PyTorch, TensorFlow, PySpark, Machine Learning, Deep Learning, NLP, Time Series, Computer Vision, GenAI/LLM
 
-### 🔗 [Projet API – Intégration de données connectées](https://github.com/aaudric/projet-api)
-Projet en binôme (M1) – Cours *Intégration de données connectées*.  
-API REST pour agréger et exposer des flux de données hétérogènes.  
-**Stack :** Python (FastAPI), SQL, Docker  
-**Résultat :** Endpoints REST dynamiques et documentation OpenAPI.
+**Data Engineering & delivery** - ETL/ELT, REST APIs, Docker, Git, CI/CD, AWS, SQLite, data quality
 
----
+**Visualization** - Streamlit, Tableau, Power BI, Matplotlib, Plotly
 
-### 🧩 [INM-Explain – Étude de controverses (LIRMM / Advanse)](https://github.com/alyasltd/INM-Explain)
-Projet de recherche appliquée (M1) avec le LIRMM Montpellier.  
-Analyse de plus de 5 M de tweets sur les interventions non médicamenteuses liées au cancer, pour modéliser la polarisation du débat.  
-**Stack :** Python, Pandas, Transformers (RoBERTa), Streamlit, Plotly  
-🔗 [Site associé](http://advanse.lirmm.fr/controverse/index.html)
+## Education
 
----
+**Master MIASHS - Data Science specialization** - Université Paul-Valéry Montpellier 3 - 2023-2025  
+**Licence MIASHS** - Université Paul-Valéry Montpellier 3 - 2020-2023
 
-Vous pouvez retrouver l’ensemble de mes projets et réalisations sur mon [**portfolio**](https://jonathanduc.github.io/portfolio/).  
+## Contact
 
----
-
-## 📫 Contact
-
-- 💼 **LinkedIn :** [Jonathan Duckes](https://www.linkedin.com/in/jonathan-duckes)
-- ✉️ **Email :** jonathanduckes@gmail.com  
-- 🌍 **Portfolio :** [jonathanduc.github.io/portfolio](https://jonathanduc.github.io/portfolio)
-
----
-
----
-
-# 🇬🇧 Full English Section
-
-# Jonathan Duckes
-
-🎓 **Data Scientist / Data Engineer** — Graduate from **Master MIASHS (Applied Mathematics & Computer Science for Social Sciences)**  
-*Université Paul-Valéry Montpellier 3, Class of 2025*
-
----
-
-## 👋 About Me
-
-I’m a **Data Scientist / Data Engineer** passionate about transforming complex data into actionable insights.  
-I design and deploy end-to-end data solutions that combine **statistical modeling**, **machine learning**, and **data engineering** practices.
-
-My academic and professional journey allowed me to develop strong skills in **ETL pipelines**, **model training**, and **cloud deployment** — always with a focus on impact, reproducibility, and explainability.
-
----
-
-## 🧰 Tech Stack
-
-- **Languages:** Python, R, Java, JavaScript, SQL, HTML, CSS  
-- **Machine Learning:** Scikit-Learn, TensorFlow, PyTorch, XGBoost  
-- **Data Engineering:** Pandas, PySpark, Docker, Terraform, FastAPI  
-- **Visualization:** Plotly, PowerBI, Streamlit, Matplotlib, Seaborn  
-- **Cloud & DevOps:** AWS (Lambda, S3, CloudWatch), GitHub Actions, CI/CD  
-
----
-
-## 💡 Selected Projects
-
-### 🛰 [Spaceship Titanic](https://github.com/jonathanduc/spaceship-titanic)
-Solo project – Kaggle competition.  
-Built a supervised model to predict passenger survival using feature engineering and model tuning.  
-**Stack:** Python, Pandas, Scikit-Learn  
-**Result:** ~80% accuracy and robust cross-validation.
-
----
-
-### 🌍 [OpenData Project](https://github.com/jonathanduc/OpenData-Project)
-Team project – Open Data & Linked Data course.  
-Designed an end-to-end analytics pipeline and dashboard based on public datasets from *data.gouv.fr*.  
-**Stack:** Python, Flask, Plotly, Pandas  
-**Result:** API + dynamic interactive visualizations.
-
----
-
-### 🔗 [API Integration Project](https://github.com/aaudric/projet-api)
-Team project – Data Integration course.  
-Developed a RESTful API to unify and expose heterogeneous data streams.  
-**Stack:** FastAPI, SQL, Docker  
-**Result:** Working endpoints, interactive documentation, and scalable data integration logic.
-
----
-
-### 🧩 [INM-Explain (LIRMM / Advanse)](https://github.com/alyasltd/INM-Explain)
-Research collaboration with LIRMM (University of Montpellier).  
-Analyzed over 5 million tweets discussing non-medicated cancer interventions to measure discourse polarization.  
-**Stack:** Python, Transformers (RoBERTa), Streamlit, Plotly  
-**Result:** NLP pipeline, semantic clustering, and interactive dashboard.  
-🔗 [Official project website](http://advanse.lirmm.fr/controverse/index.html)
-
----
-
-## 🌐 Portfolio
-
-Visit my online portfolio for all detailed project descriptions:  
-➡️ [jonathanduc.github.io/portfolio](https://jonathanduc.github.io/portfolio)
-
----
-
-## 📬 Contact
-
-- **LinkedIn:** [linkedin.com/in/jonathan-duckes](https://linkedin.com/in/jonathan-duckes)  
-- **Email:** jonathanduckes@gmail.com  
-- **Portfolio:** [jonathanduc.github.io/portfolio](https://jonathanduc.github.io/portfolio)
+[Portfolio](https://jonathanduc.github.io/portfolio/) - [LinkedIn](https://www.linkedin.com/in/jonathan-duckes/) - [GitHub](https://github.com/jonathanduc) - jonathan.duckes@gmail.com
